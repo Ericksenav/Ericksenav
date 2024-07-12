@@ -15,8 +15,8 @@ I'm a software developer and entrepreneur passionate about technology, innovatio
 
 ## Technical Skills
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, TailwindCSS, Bootstrap
-- **Backend**: Node.js, MySQL
-- **Database**: Learning MongoDB
+- **Backend**: Node.js, Learning Express
+- **Database**: MySQL, Learning MongoDB
 - **Programming Languages**: JavaScript, TypeScript, learning Python
 - **Artificial Intelligence**: Completed "AI for Everyone" by DeepLearning.AI, seeking advanced knowledge in Machine Learning and Natural Language Processing
 
